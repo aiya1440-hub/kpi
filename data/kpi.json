@@ -1,0 +1,8 @@
+[
+  { "month": "2026-09", "department": "영업A", "goal": 10000000, "actual": 9000000 },
+  { "month": "2026-09", "department": "영업B", "goal": 8000000, "actual": 8800000 },
+  { "month": "2026-09", "department": "영업C", "goal": 12000000, "actual": 10800000 },
+  { "month": "2026-10", "department": "영업A", "goal": 10000000, "actual": 11000000 },
+  { "month": "2026-10", "department": "영업B", "goal": 8000000, "actual": 7200000 },
+  { "month": "2026-10", "department": "영업C", "goal": 12000000, "actual": 12600000 }
+]
